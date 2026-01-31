@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1750577586 source:c:\users\snappy\documents\hospital management system.\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<map>
+	<memory>
+	<ctime>
+
